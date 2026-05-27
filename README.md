@@ -80,4 +80,4 @@ lista_limitada.clear()
 
 ## Links
 
-[Link da atividade no Google Classroom](https://classroom.google.com/c/ODI1MjIzMzA5OTEx/a/ODY1MTUyOTE2OTAy/details) 
+[Atividade no Google Classroom](https://classroom.google.com/c/ODI1MjIzMzA5OTEx/a/ODY1MTUyOTE2OTAy/details) 
